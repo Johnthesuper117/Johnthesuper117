@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    
+</p>
+
 - 👋 Hi, I’m @Johnthesuper117
 - 👀 I’m interested in video games, playing and coding them
 - 🌱 I’m currently learning How to make video games
@@ -7,6 +12,3 @@
 - [ ] Finish bytelabs.online
 - [ ] Finish Untitled Turn Based Battle
 
-<p align="center">
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-</p>
