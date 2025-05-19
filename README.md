@@ -1,6 +1,7 @@
 <p align="center">
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://scratch.mit.edu/users/radking_12/"><img src="https://img.shields.io/badge/radking__12-12?logo=Scratch&logoColor=yellow&label=scratch&labelColor=grey&color=yellow"></a>
+    <a href="https://scratch.mit.edu/users/radking_12/"><img src="https://img.shields.io/badge/radking__12-12?logo=Scratch&logoColor=yellow&label=Scratch&labelColor=grey&color=yellow"></a>
+    <a href="https://steamcommunity.com/profiles/76561199811025523/"><img src="https://img.shields.io/badge/Johnthesuper117-1?logo=steam&logoColor=blue&label=Steam&labelColor=grey&color=blue"></a>
 </p>
 
 - 👋 Hi, I’m @Johnthesuper117
