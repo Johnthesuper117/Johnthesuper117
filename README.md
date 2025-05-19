@@ -13,3 +13,10 @@
 - [ ] Finish bytelabs.online
 - [ ] Finish Untitled Turn Based Battle
 
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117" alt="Johnthesuper117" /></a>
+</p>
