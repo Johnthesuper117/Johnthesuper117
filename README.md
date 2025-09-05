@@ -4,19 +4,21 @@
     <a href="https://steamcommunity.com/profiles/76561199811025523/"><img src="https://img.shields.io/badge/Johnthesuper117-1?logo=steam&logoColor=blue&label=Steam&labelColor=grey&color=blue"></a>
 </p>
 
+<img>
+
 - 👋 Hi, I’m @Johnthesuper117
 - 👀 I’m interested in video games, playing and coding them
 - 🌱 I’m currently learning How to make video games
 - 😄 Pronouns: Portal/Master (not really)
 - ⚡ Fun fact: It started in middle school when I learned that my friend was coding games on Roblox, and I thought "Hey, if he can, why not I?" So, them I started learning a lot in Scratch.mit.edu, and here I am now!
 
-- [ ] Finish bytelabs.online
+- [ ] Release Byte Labs Online as bytelabs.online
 - [ ] Finish Untitled Turn Based Battle
 
 <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
+    <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117" alt="Johnthesuper117" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117" alt="Johnthesuper117" /></a>
 </p>
