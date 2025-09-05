@@ -4,7 +4,7 @@
     <a href="https://steamcommunity.com/profiles/76561199811025523/"><img src="https://img.shields.io/badge/Johnthesuper117-1?logo=steam&logoColor=blue&label=Steam&labelColor=grey&color=blue"></a>
 </p>
 
-<img>
+<img src="images/NamePlate.gif">
 
 - 👋 Hi, I’m @Johnthesuper117
 - 👀 I’m interested in video games, playing and coding them
