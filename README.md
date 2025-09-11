@@ -20,7 +20,7 @@
 </div>
 
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117" alt="Johnthesuper117" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117&theme=matrix" alt="Johnthesuper117" /></a>
 </p>
 
 [![Johnthesuper117's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnthesuper117)](https://github.com/Johnthesuper117/github-readme-stats)
