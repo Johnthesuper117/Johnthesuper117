@@ -18,14 +18,15 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnthesuper117&theme=matrix&show_icons=true&locale=en&layout=compact" alt="johnthesuper117" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnthesuper117&theme=dark&show_icons=true&locale=en&layout=compact" alt="johnthesuper117" />
     <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117&theme=matrix" alt="Johnthesuper117" />
-    <img src="https://github-readme-stats.vercel.app/api?username=johnthesuper117&theme=matrix&show_icons=true&locale=en" alt="johnthesuper117" /> 
-    <img src="https://streak-stats.demolab.com?user=Johnthesuper117&theme=hacker&short_numbers=true" alt="GitHub Streak" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=johnthesuper117&theme=dark&show_icons=true&locale=en" alt="johnthesuper117" /> 
     <img src="https://github-contributor-stats.vercel.app/api?username=Johnthesuper117&theme=dark&show_icons=true&limit=3&combine_all_yearly_contributions=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117&theme=matrix" alt="Johnthesuper117" />
+    <img src="https://streak-stats.demolab.com?user=Johnthesuper117&theme=hacker&short_numbers=true" alt="GitHub Streak" />
 </p>
