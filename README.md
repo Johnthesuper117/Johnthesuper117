@@ -9,14 +9,12 @@
 
 ![](NamePlate.gif)
 
-- 👋 Hi, I’m @Johnthesuper117
-- 👀 I’m interested in video games, playing, designing and coding them
 - 🔭 I’m currently working on [Bytelabs.online](https://github.com/Johnthesuper117/bytelabs.online)
 - 🌱 I’m currently learning how to make video games using C++ for game engines like Source 2013, Unreal, etc.
 - 😄 Pronouns: Portal/Master (not really)
 - ⚡ Fun fact: It started in middle school when I learned that my friend was coding games on Roblox, and I thought "Hey, if he can, why not I?" So, them I started learning a lot in Scratch.mit.edu, and here I am now!
 
-<p align="center"> 
+<p align="left"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnthesuper117&theme=dark&show_icons=true&locale=en&layout=compact&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" alt="johnthesuper117" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=johnthesuper117&theme=dark&show_icons=true&locale=en&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" alt="johnthesuper117" />
