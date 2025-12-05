@@ -55,27 +55,29 @@
 
 ---
 
-## Lore
+## Lore and more
 
-It started in middle school when I learned that my friend was coding games on Roblox, and I thought "Hey, if he can, why not I?" So, them I started learning a lot in Scratch.mit.edu, took AP Computer Science Principles +, taught my self a lot of what I know, and here I am now!
+My Dream Pizza 🍕: New York size, Chicago style Deep Dish, Meat Lovers 🥓🥩🍗🍖 with Garlic Crust 🧄.  
+
+It started in middle school when I learned that my friend was coding games on Roblox, and I thought "Hey, if he can, why not I?" So, them I started learning a lot in Scratch.mit.edu, took AP Computer Science Principles +, taught my self a lot of what I know, and here I am now!  
 
 ---
 
 ## Github Stats
 
-<div align="center">
-<p> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnthesuper117&theme=dark&show_icons=true&locale=en&layout=compact&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" alt="johnthesuper117" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=johnthesuper117&theme=dark&show_icons=true&locale=en&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" alt="johnthesuper117" />
-    <br>
-    <img src="https://github-contributor-stats.vercel.app/api?username=Johnthesuper117&theme=dark&show_icons=true&limit=3&combine_all_yearly_contributions=true&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" />
-    <br>
-    <img src="https://streak-stats.demolab.com?user=Johnthesuper117&theme=hacker&short_numbers=true" alt="GitHub Streak" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117&theme=matrix" alt="Johnthesuper117" />
-</p>
-</div>
+[![Johnthesuper117's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnthesuper117&theme=dark&show&icons=true&locale=en&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000)](https://github.com/Johnthesuper117/github-readme-stats)
 
+
+
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=johnthesuper117&theme=dark&show_icons=true&locale=en&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" alt="johnthesuper117" />
+<br>
+<img src="https://github-contributor-stats.vercel.app/api?username=Johnthesuper117&theme=dark&show_icons=true&limit=3&combine_all_yearly_contributions=true&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" />
+<br>
+<img src="https://streak-stats.demolab.com?user=Johnthesuper117&theme=hacker&short_numbers=true" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117&theme=matrix" alt="Johnthesuper117" />
+-->
 <div align="center">
 
 ## Thanks for stopping by!
