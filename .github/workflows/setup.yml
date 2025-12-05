@@ -28,5 +28,3 @@ jobs:
       # Runs a single command using the runners shell
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@v4
-      - name: Metrics embed
-        uses: lowlighter/metrics@v3.34
