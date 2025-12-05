@@ -67,17 +67,8 @@ It started in middle school when I learned that my friend was coding games on Ro
 
 [![Johnthesuper117's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnthesuper117&theme=dark&show&icons=true&locale=en&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000)](https://github.com/Johnthesuper117/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/Johnthesuper117?template=classic&isocalendar=1&languages=1&lines=1&repositories=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&repositories=false&repositories.featured=bytelabs.online&repositories.pinned=3&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York&config.octicon=true)
 
-
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=johnthesuper117&theme=dark&show_icons=true&locale=en&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" alt="johnthesuper117" />
-<br>
-<img src="https://github-contributor-stats.vercel.app/api?username=Johnthesuper117&theme=dark&show_icons=true&limit=3&combine_all_yearly_contributions=true&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&bg_color=000000" />
-<br>
-<img src="https://streak-stats.demolab.com?user=Johnthesuper117&theme=hacker&short_numbers=true" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=Johnthesuper117&theme=matrix" alt="Johnthesuper117" />
--->
 <div align="center">
 
 ## Thanks for stopping by!
