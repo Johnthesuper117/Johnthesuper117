@@ -37,8 +37,8 @@
 ![Static Badge](https://img.shields.io/badge/-python-%233477ac?style=for-the-badge&logo=python&logoColor=%23ffd23f&labelColor=grey)
 
 #### Still Learning
-![Static Badge](https://img.shields.io/badge/-C%2B%2B-%2300589d?style=for-the-badge&logo=cplusplus&logoColor=%23659bd3&labelColor=grey)
 
+![Static Badge](https://img.shields.io/badge/-C%2B%2B-%2300589d?style=for-the-badge&logo=cplusplus&logoColor=%23659bd3&labelColor=grey)
 
 ### Frameworks
 
@@ -47,21 +47,11 @@
 ![Static Badge](https://img.shields.io/badge/-html5-%23e54c21?style=for-the-badge&logo=html5&logoColor=%23f16524&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/-css-%23214ce5?style=for-the-badge&logo=css&logoColor=%232465f1&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/-reactjs-%2361dbfb?style=for-the-badge&logo=react&logoColor=%2361dbfb&labelColor=grey)
-
-![Static Badge](https://img.shields.io/badge/-Nextjs-%23214ce5?style=for-the-badge&logo=nextdotjs&logoColor=%232465f1&labelColor=grey)
-
-
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>
+![Static Badge](https://img.shields.io/badge/-Nextjs-black?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=white)
 
 ### Misc.
 
-![Static Badge](https://img.shields.io/badge/-css-%23214ce5?style=for-the-badge&logo=css&logoColor=%232465f1&labelColor=grey)
-
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>
-
-
+![Static Badge](https://img.shields.io/badge/-raspberrypi-%23c31c4a?style=for-the-badge&logo=raspberrypi&logoColor=%236abf4b&labelColor=grey)
 
 ---
 
@@ -71,7 +61,7 @@ It started in middle school when I learned that my friend was coding games on Ro
 
 ---
 
-## 
+## Github Stats
 
 <div align="center">
 <p> 
