@@ -23,7 +23,6 @@
 ## 🚀 Current Projects
 
 - **[Bytelabs.online](https://github.com/Johnthesuper117/bytelabs.online)**
-- **Hollow Net**
 - **Python RPG**
 
 ---
